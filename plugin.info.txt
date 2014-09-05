@@ -1,0 +1,6 @@
+base   authdrupalbs
+author Dennis Bruecke for kaspermedia.de
+email  blackice2999@googlemail.com
+date   2014-07-31
+name   Drupal Auth Plugin
+desc   Authentication using Drupal by using Bootstrap

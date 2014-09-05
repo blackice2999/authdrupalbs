@@ -1,0 +1,19 @@
+{
+    "name": "blackice2999/authdrupalbs",
+    "description": "provides drupal authentication and sso for dokuwiki",
+    "minimum-stability": "alpha",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Dennis Brücke",
+            "email": "blackice2999@googlemail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"AuthDrupalBS\\": "src/"}
+    },
+    "require": {
+        "zetacomponents/database": "1.4.6",
+        "guzzle/guzzle": "3.*"
+    }
+}
